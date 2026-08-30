@@ -1,5 +1,5 @@
 --Performed exploratory data analysis and data cleaning on sales data from an online dropshipping business /
---Built summary tables to surface insights on order completion rates and other key performance metrics 
+--Built summary tables to surface insights on order completion rates and other key performance metrics  /
 --Used Google BigQuery for SQL execution
 
 
